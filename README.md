@@ -1,6 +1,6 @@
 <h1>Como usar</h1>
 
-Para rodar esse projeto irá precisar, [Git](https://git-scm.com), [nodejs](https://nodejs.org/en/)  e [yarn](https://yarnpkg.com/)
+Para rodar esse projeto irá precisar, Git, nodejs e yarn
 
 ```bash
 # Clone o repositorio
