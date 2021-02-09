@@ -4,7 +4,7 @@ Para rodar esse projeto irá precisar, [Git](https://git-scm.com), [nodejs](http
 
 ```bash
 # Clone o repositorio
-$ git clone 
+$ git clone https://github.com/jvmineiro/desafio-cubos.git
 
 # Entre nele
 $ cd desafio-cubos
